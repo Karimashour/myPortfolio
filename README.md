@@ -14,3 +14,5 @@ https://my-portfolio-three-theta-86.vercel.app/
 - react-type-animation
 - resend
 # features
+- it's my updated portfolio website
+
